@@ -331,7 +331,7 @@ handlePlayerControls() {
 }
 showRank() {
   swal({
-    title: `¡Impresionante!${"\n"}Rank${"\n"}${player.rank}`,
+    title: `¡Impresionante!${"\n"}Posición${"\n"}${player.rank}`,
     text: "Cruzaste la línea de meta con éxito",
     imageUrl:
       "https://raw.githubusercontent.com/vishalgaddam873/p5-multiplayer-car-race-game/master/assets/cup.png",
