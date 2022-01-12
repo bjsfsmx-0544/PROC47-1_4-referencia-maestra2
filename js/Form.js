@@ -41,7 +41,7 @@ class Form {
       player.index = playerCount;
     player.addPlayer();//aa
       player.updateCount(playerCount); // BP
-     player.getDistance(); //aa
+     player.getDistance(); //aaa
     });
   }
 
